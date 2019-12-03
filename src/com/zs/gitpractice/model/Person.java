@@ -1,4 +1,4 @@
-package com.zs.gitpractice.p1;
+package com.zs.gitpractice.model;
 
 public class Person {
     String firstName;
